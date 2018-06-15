@@ -9,7 +9,9 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 The code will look like the following:
+
 from sklearn.model_selection import train_test_split
+
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, train_size=0.7,
 random_state=1)
 
