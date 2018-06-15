@@ -1,7 +1,7 @@
 # Mastering Machine Learning Algorithms
 This is the code repository for [Mastering Machine Learning Algorithms](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781788621113), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-.NET Core Machine learning is a subset of AI that aims to make modern-day computer systems smarter and more intelligent. The real power of machine learning resides in its algorithms, which make even the most difficult things capable of being handled by machines. However, with the advancement in the technology and requirements of data, machines will have to be smarter than they are today to meet the overwhelming data needs; mastering these algorithms and using them optimally is the need of the hour.
+Machine learning is a subset of AI that aims to make modern-day computer systems smarter and more intelligent. The real power of machine learning resides in its algorithms, which make even the most difficult things capable of being handled by machines. However, with the advancement in the technology and requirements of data, machines will have to be smarter than they are today to meet the overwhelming data needs; mastering these algorithms and using them optimally is the need of the hour.
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
